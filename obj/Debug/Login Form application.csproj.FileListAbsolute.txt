@@ -1,0 +1,14 @@
+C:\Users\dcs\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe.config
+C:\Users\dcs\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe
+C:\Users\dcs\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.pdb
+C:\Users\dcs\source\repos\Login Form application\Login Form application\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dcs\source\repos\Login Form application\Login Form application\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.AssemblyReference.cache
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.SuggestedBindingRedirects.cache
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form1.resources
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Properties.Resources.resources
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.GenerateResource.cache
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.CoreCompileInputs.cache
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.CopyComplete
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.exe
+C:\Users\dcs\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.pdb
